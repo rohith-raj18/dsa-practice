@@ -11,3 +11,4 @@ this repository contains my Data Structures and Algorithms practice in java
   --TwoSum(Sorted,two Pointer)
   --TwoSum(HashMap)
   --MoveZeros
+  --LeftShift(one place)
