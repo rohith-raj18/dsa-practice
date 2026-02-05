@@ -13,3 +13,5 @@ this repository contains my Data Structures and Algorithms practice in java
   --MoveZeros
   --LeftShift(one place)
   --MaxOnes(consecutive)
+  --ContainsDuplicate
+  --UnionOfArrays(HashSet , UnSorted)
