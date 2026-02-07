@@ -18,3 +18,5 @@ this repository contains my Data Structures and Algorithms practice in java
   --FirstNonRepeatingElement
   --Frequency
   --Intersection
+  --KDifferentPairs(sorted)
+  --Reverse
