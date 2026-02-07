@@ -20,3 +20,4 @@ this repository contains my Data Structures and Algorithms practice in java
   --Intersection
   --KDifferentPairs(sorted)
   --Reverse
+  --RightShift(k elements)
