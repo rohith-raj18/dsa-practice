@@ -7,7 +7,6 @@ this repository contains my Data Structures and Algorithms practice in java
 --Arrays
   --RemoveDuplicates(Sorted)
   --UniqueElement(Sorted)
-  --MissingElement(Sorted)
   --TwoSum(Sorted,two Pointer)
   --TwoSum(HashMap)
   --MoveZeros
