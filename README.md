@@ -19,3 +19,5 @@ this repository contains my Data Structures and Algorithms practice in java
   --Intersection
   --Reverse
   --RightShift(k elements)
+  --KDiffpairs(sorted)
+  --FirstLastIndex
