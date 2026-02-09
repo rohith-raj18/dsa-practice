@@ -21,3 +21,5 @@ this repository contains my Data Structures and Algorithms practice in java
   --RightShift(k elements)
   --KDiffpairs(sorted)
   --FirstLastIndex
+  --MedianOfTwoSortedArrays
+  --Remove
