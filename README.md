@@ -24,3 +24,5 @@ this repository contains my Data Structures and Algorithms practice in java
   --MedianOfTwoSortedArrays
   --Remove
   --SearchInsertPosition
+  --ContainerWithMostWater
+  --MergingSortedArrays
