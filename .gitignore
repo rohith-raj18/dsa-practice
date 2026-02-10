@@ -6,6 +6,5 @@ bin/
 out/
 target/
 
-# IDE files
-.idea/
+
 
