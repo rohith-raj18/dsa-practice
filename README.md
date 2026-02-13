@@ -30,4 +30,4 @@ this repository contains my Data Structures and Algorithms practice in java
   --SquareSorted
   --MajorityElement
   --MissingElement
-  
+  --MaxSubArraySumOfSizeK
