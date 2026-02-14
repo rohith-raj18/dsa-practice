@@ -31,3 +31,5 @@ this repository contains my Data Structures and Algorithms practice in java
   --MajorityElement
   --MissingElement
   --MaxSubArraySumOfSizeK
+  --MaxSubArraySum(constant window, neglect duplicates)
+  --LongestSubArrayLength(dynamic window, only positives)
