@@ -35,4 +35,5 @@ this repository contains my Data Structures and Algorithms practice in java
   --LongestSubArrayLength(dynamic window, only positives)
   --MinimumSubArraySum(k size)
   --MaxPointsFromCards(k cards, either from beginning or end)
-  
+  --MaximumAverageSubArrayI
+  --MinimumSizeSubArraySum
