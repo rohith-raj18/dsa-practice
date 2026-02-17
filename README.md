@@ -37,3 +37,5 @@ this repository contains my Data Structures and Algorithms practice in java
   --MaxPointsFromCards(k cards, either from beginning or end)
   --MaximumAverageSubArrayI
   --MinimumSizeSubArraySum
+  --ContainsDuplicateII
+  --MaxOnesIII
