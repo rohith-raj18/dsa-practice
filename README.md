@@ -44,4 +44,5 @@ this repository contains my Data Structures and Algorithms practice in java
   --RunningSum
   --toggleLightBulbs
   --RangeSumQuery
+  --BinarySearch
   
