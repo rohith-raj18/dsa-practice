@@ -43,4 +43,5 @@ this repository contains my Data Structures and Algorithms practice in java
   --FruitsIntoBasket
   --RunningSum
   --toggleLightBulbs
+  --RangeSumQuery
   
