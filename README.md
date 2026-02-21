@@ -45,4 +45,5 @@ this repository contains my Data Structures and Algorithms practice in java
   --toggleLightBulbs
   --RangeSumQuery
   --BinarySearch
+  --MaxAscendingSubArraySum
   
