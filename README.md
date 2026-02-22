@@ -49,3 +49,5 @@ this repository contains my Data Structures and Algorithms practice in java
   --FindMiddleIndex
   --PivotIndex
   --CountPartitions
+  --SubArraySumEqualK
+  
