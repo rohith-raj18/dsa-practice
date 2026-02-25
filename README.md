@@ -54,4 +54,5 @@ this repository contains my Data Structures and Algorithms practice in java
   --PivotInteger
   --LeftSumRightSumDiff
   --ProductOfArrayExceptSelf
-  
+  --LongestSubArrayEqualsK(includes negatives)
+  --SubArraySumDivByK
