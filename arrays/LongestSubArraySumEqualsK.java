@@ -1,0 +1,26 @@
+import java.util.*;
+public class LongestSubArraySumEqualsK{
+	public static int maxLen(int[] nums,int k) {
+        int maxlen = 0;
+        int sum = 0;
+        HashMap<Integer,Integer> map = new HashMap<>();
+        map.put(0,-1);
+
+        for(int i = 0;i<nums.length;i++){
+            sum += nums[i];
+
+            if(map.containsKey(sum - k)){
+                int len = i - map.get(sum - k);
+                maxlen = Math.max(maxlen,len);
+            }
+            if(!map.containsKey(sum)){
+                map.put(sum,i);
+            }
+        }
+        return maxlen;
+    }
+    public static void main(String[] args){
+       int[] arr = {1,2,1,1,1,1,3,4};
+        System.out.println(maxLen(arr,4));
+    }
+}
