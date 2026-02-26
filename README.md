@@ -56,3 +56,5 @@ this repository contains my Data Structures and Algorithms practice in java
   --ProductOfArrayExceptSelf
   --LongestSubArrayEqualsK(includes negatives)
   --SubArraySumDivByK
+  --SumOfOddLengthArray
+  --SumOfVariableLength
