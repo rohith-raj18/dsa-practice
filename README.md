@@ -70,3 +70,5 @@ this repository contains my Data Structures and Algorithms practice in java
   --maximumAbsoluteSumOfAnyArrays
   --ArrayLeaders
   --MaximumProductOfTwo
+  --SubArrayProductLessThanK
+  --SearchInRotatedSortedArray
