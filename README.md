@@ -75,3 +75,6 @@ this repository contains my Data Structures and Algorithms practice in java
   --NumberOfGoodPairs
   --ThreeConsecutiveOdds
   --MinimumDistanceToTheTargetElement
+  --SumOfSquareNumbers
+  --3Sum
+  --3SumClosest
