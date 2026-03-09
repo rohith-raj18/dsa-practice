@@ -78,3 +78,6 @@ this repository contains my Data Structures and Algorithms practice in java
   --SumOfSquareNumbers
   --3Sum
   --3SumClosest
+  --4Sum
+  --CountPairsWhoseSumIsLessThanTarget
+  --RemoveDuplicatesFromSortedArrayII
