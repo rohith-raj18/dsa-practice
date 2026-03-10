@@ -82,3 +82,6 @@ this repository contains my Data Structures and Algorithms practice in java
   --CountPairsWhoseSumIsLessThanTarget
   --RemoveDuplicatesFromSortedArrayII
   --MinimumCapacityBox
+  --FindLuckyIntegerInAnArray
+  --FindSubArraysWithEqualSum
+  --MostFrequentEvenElement
