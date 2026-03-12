@@ -90,3 +90,6 @@ this repository contains my Data Structures and Algorithms practice in java
   --FirstUniqueCharacterInaString
   --LengthOfLastWordInString
   --ValidAnagram
+  --ToLowerCase
+  --FindTheDifference
+  --IsSubsequence
