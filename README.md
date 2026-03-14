@@ -85,6 +85,7 @@ this repository contains my Data Structures and Algorithms practice in java
   --FindLuckyIntegerInAnArray
   --FindSubArraysWithEqualSum
   --MostFrequentEvenElement
+  --FirstUniqueEven
 --Strings
   --ReverseString
   --FirstUniqueCharacterInaString
