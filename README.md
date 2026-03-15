@@ -86,6 +86,7 @@ this repository contains my Data Structures and Algorithms practice in java
   --FindSubArraysWithEqualSum
   --MostFrequentEvenElement
   --FirstUniqueEven
+  --DegreeOfAnArray
 --Strings
   --ReverseString
   --FirstUniqueCharacterInaString
@@ -100,3 +101,4 @@ this repository contains my Data Structures and Algorithms practice in java
   --ReverseOnlyLetters
   --PermutationInString
   --FindAllAnagramsInAString
+  --ValidPalindromeII
