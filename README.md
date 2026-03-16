@@ -87,6 +87,9 @@ this repository contains my Data Structures and Algorithms practice in java
   --MostFrequentEvenElement
   --FirstUniqueEven
   --DegreeOfAnArray
+  --TwoSumII
+  --Sqrt(x)
+  --GuessNumberHigherOrLower
 --Strings
   --ReverseString
   --FirstUniqueCharacterInaString
