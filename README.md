@@ -90,6 +90,9 @@ this repository contains my Data Structures and Algorithms practice in java
   --TwoSumII
   --Sqrt(x)
   --GuessNumberHigherOrLower
+  --FirstBadVersion
+  --PeakIndexInAMountainArray
+  --FindPeakElement
 --Strings
   --ReverseString
   --FirstUniqueCharacterInaString
