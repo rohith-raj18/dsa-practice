@@ -94,6 +94,7 @@ this repository contains my Data Structures and Algorithms practice in java
   --PeakIndexInAMountainArray
   --FindPeakElement
   --ValidPerfectSquare
+  --SingleElementInASortedArray
 --Strings
   --ReverseString
   --FirstUniqueCharacterInaString
@@ -108,4 +109,5 @@ this repository contains my Data Structures and Algorithms practice in java
   --ReverseOnlyLetters
   --PermutationInString
   --FindAllAnagramsInAString
+  --FindSmallestLetterGreaterThanTarget
   --ValidPalindromeII
