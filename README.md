@@ -95,6 +95,8 @@ this repository contains my Data Structures and Algorithms practice in java
   --FindPeakElement
   --ValidPerfectSquare
   --SingleElementInASortedArray
+  --CheckIfNandItsDoubleExist
+  --MinimumConsecutiveCardstoPickUp
 --Strings
   --ReverseString
   --FirstUniqueCharacterInaString
