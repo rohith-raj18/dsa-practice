@@ -98,6 +98,8 @@ this repository contains my Data Structures and Algorithms practice in java
   --CheckIfNandItsDoubleExist
   --MinimumConsecutiveCardstoPickUp
   --LongestMountainInArray
+  --MinimumDifferenceBetweenHighestAndLowestOfKScore
+  --UniqueNumberOfOccurrences
 --Strings
   --ReverseString
   --FirstUniqueCharacterInaString
