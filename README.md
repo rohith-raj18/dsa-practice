@@ -100,6 +100,7 @@ this repository contains my Data Structures and Algorithms practice in java
   --LongestMountainInArray
   --MinimumDifferenceBetweenHighestAndLowestOfKScore
   --UniqueNumberOfOccurrences
+  --SignOfProductOfArray
 --Strings
   --ReverseString
   --FirstUniqueCharacterInaString
