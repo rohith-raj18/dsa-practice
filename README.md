@@ -101,6 +101,9 @@ this repository contains my Data Structures and Algorithms practice in java
   --MinimumDifferenceBetweenHighestAndLowestOfKScore
   --UniqueNumberOfOccurrences
   --SignOfProductOfArray
+  --SearchInRotatedSortedArrayII
+  --FindMinimumInRotatedSortedArray
+  --FindMinimumInRotatedSortedArrayII
 --Strings
   --ReverseString
   --FirstUniqueCharacterInaString
