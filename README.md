@@ -104,6 +104,8 @@ this repository contains my Data Structures and Algorithms practice in java
   --SearchInRotatedSortedArrayII
   --FindMinimumInRotatedSortedArray
   --FindMinimumInRotatedSortedArrayII
+  --CheckIfArrayIsSortedAndRotated
+  --FindTargetIndicesAfterSortingArray
 --Strings
   --ReverseString
   --FirstUniqueCharacterInaString
