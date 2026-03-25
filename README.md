@@ -122,3 +122,5 @@ this repository contains my Data Structures and Algorithms practice in java
   --FindAllAnagramsInAString
   --FindSmallestLetterGreaterThanTarget
   --ValidPalindromeII
+  --StringToInteger
+  --ReverseWordsInAString
