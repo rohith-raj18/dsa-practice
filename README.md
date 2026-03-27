@@ -127,3 +127,5 @@ this repository contains my Data Structures and Algorithms practice in java
   --ReverseStringII
   --ReverseWordsInAStringIII
   --Vowel-ConsonantScore
+  --ReverseVowels
+  --RotateString
