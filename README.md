@@ -107,6 +107,8 @@ this repository contains my Data Structures and Algorithms practice in java
   --CheckIfArrayIsSortedAndRotated
   --FindTargetIndicesAfterSortingArray
   --KokoEatingBananas
+  --MinimumAbsoluteDifferenceBetweenTwoValues
+  --MinimumNumberOfDaysToMakemBouquets
 --Strings
   --ReverseString
   --FirstUniqueCharacterInaString
@@ -130,3 +132,4 @@ this repository contains my Data Structures and Algorithms practice in java
   --Vowel-ConsonantScore
   --ReverseVowels
   --RotateString
+  --FirstMatchingCharacterFromBothEnds
