@@ -1,0 +1,17 @@
+import java.util.*;
+public class KthMissing{
+	public static int findKthPositive(int[] nums, int k) {
+        for(int i = 0;i<nums.length;i++){
+            if(nums[i] <=k){
+                k++;
+            }else{
+                break;
+            }
+        }
+        return k;
+    }
+    public static void main(String[] args){
+    	int[] arr = {1,2,3,4};
+    	System.out.println(findKthPositive(arr,2));
+    }
+}
