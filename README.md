@@ -109,6 +109,8 @@ this repository contains my Data Structures and Algorithms practice in java
   --KokoEatingBananas
   --MinimumAbsoluteDifferenceBetweenTwoValues
   --MinimumNumberOfDaysToMakemBouquets
+  --FindTheSmallestDivisorGivenAThreshold
+  --CapacityToShipPackagesWithinDdays
 --Strings
   --ReverseString
   --FirstUniqueCharacterInaString
