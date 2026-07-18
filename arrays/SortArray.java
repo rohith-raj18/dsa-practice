@@ -1,5 +1,6 @@
-class SortArray {
-	//Merge Sort
+public class SortArray {
+	// Merge sort	
+	
     int b[] = null;
     public int[] sortArray(int[] nums) {
         if(nums == null){
